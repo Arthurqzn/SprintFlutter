@@ -38,48 +38,57 @@ Esta versão atende ao escopo da Sprint 3 com **Flutter**, navegação funcional
 
 ### 01 — Splash
 Apresenta a identidade visual do Láctea Conect durante o carregamento inicial.
+<img width="1365" height="681" alt="image" src="https://github.com/user-attachments/assets/b79e76c2-92bd-4d36-9c63-4a4a7a2c73e1" />
 
-![Splash](screenshots/01-splash.png)
+
 
 ### 02 — Login
 Permite preencher e-mail/CPF e senha. A autenticação é simulada nesta Sprint.
 
-![Login](screenshots/02-login.png)
+<img width="1365" height="386" alt="image" src="https://github.com/user-attachments/assets/601d111b-277b-4926-89ad-cca48af36848" />
+
 
 ### 03 — Cadastro
 Formulário para nome, CPF, nascimento, telefone, e-mail e CEP.
 
-![Cadastro](screenshots/03-cadastro.png)
+<img width="1361" height="628" alt="image" src="https://github.com/user-attachments/assets/4cb9caa8-4772-4ffd-b9c1-f6cdd13b5163" />
+
 
 ### 04 — Home
 Dashboard da doadora com status, próxima coleta, estatísticas, ações rápidas e dica da semana.
 
-![Home](screenshots/04-home.png)
+<img width="1363" height="634" alt="image" src="https://github.com/user-attachments/assets/d58cce09-1af7-44f7-9dda-7d60279ff9c3" />
+
 
 ### 05 — Mapa / Bancos
 Lista mockada de Bancos de Leite com busca, distância, avaliação e status de funcionamento.
 
-![Mapa](screenshots/05-mapa.png)
+<img width="1364" height="639" alt="image" src="https://github.com/user-attachments/assets/1eb72cbf-d79c-4bc1-a533-bb943dc1c15a" />
+
 
 ### 06 — Detalhe do Banco
 Mostra endereço, horário, telefone, avaliação e condições de doação.
 
-![Detalhe](screenshots/06-detalhe-banco.png)
+<img width="1365" height="628" alt="image" src="https://github.com/user-attachments/assets/b85c4c6a-1578-40f5-9026-fd08b4d86ede" />
+
 
 ### 07 — Agendar Coleta
 Permite selecionar uma data e horário mockados e confirmar o agendamento.
 
-![Agendar](screenshots/07-agendar.png)
+<img width="1363" height="631" alt="image" src="https://github.com/user-attachments/assets/24c3abeb-aa45-4d8a-a425-04778ab33c98" />
+
 
 ### 08 — Meus Agendamentos
 Exibe agendamentos futuros e concluídos e permite cancelar um agendamento futuro.
 
-![Agendamentos](screenshots/08-agendamentos.png)
+<img width="1365" height="624" alt="image" src="https://github.com/user-attachments/assets/c2d0e220-a06c-4021-a5bc-f9aff63abd32" />
+
 
 ### 09 — Perfil
 Exibe dados da doadora, informações pessoais e opções de segurança, suporte e saída.
 
-![Perfil](screenshots/09-perfil.png)
+<img width="295" height="119" alt="image" src="https://github.com/user-attachments/assets/16ec7e4e-2d74-4944-91ef-c49eb1274eca" />
+
 
 ## 5. Como executar
 
