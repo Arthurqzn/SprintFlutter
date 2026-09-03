@@ -17,8 +17,7 @@ Esta versão atende ao escopo da Sprint 3 com **Flutter**, navegação funcional
 
 ## 2. Link do GitHub
 
-> **Preencher após criar/subir o repositório:**  
-> `https://github.com/SEU_USUARIO/lactea-conect`
+https://github.com/Arthurqzn/SprintFlutter
 
 ## 3. Fluxos implementados
 
